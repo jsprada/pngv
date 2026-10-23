@@ -20,7 +20,7 @@ The window is sized to the image and can't be resized. In `--fit` mode, the imag
 
 ## Install
 
-Built and tested with Rust 1.98.1.
+Built with Rust 1.98.1.
 
 ```sh
 git clone https://github.com/jsprada/pngv.git
