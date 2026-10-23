@@ -20,7 +20,7 @@ The window is sized to the image and can't be resized. In `--fit` mode, the imag
 
 ## Install
 
-You need a Rust toolchain that supports edition 2024 (Rust 1.85 or newer).
+Built and tested with Rust 1.98.1.
 
 ```sh
 git clone https://github.com/jsprada/pngv.git
